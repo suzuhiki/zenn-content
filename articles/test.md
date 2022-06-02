@@ -1,5 +1,5 @@
 ---
-title: "Zennのテスト"
+title: "zenn-first-articl"
 emoji: "📑"
 type: "tech"
 topics: ["Zenn"]
