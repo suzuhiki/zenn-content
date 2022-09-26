@@ -1,0 +1,23 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "- Zenn Page : https://zenn.dev/suzuhiki",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suzuhiki/zenn-content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suzuhiki/zenn-content/issues"
+  },
+  "homepage": "https://github.com/suzuhiki/zenn-content#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.126"
+  }
+}
